@@ -1,3 +1,6 @@
+# 衣舞晨风
+![个人微信公众号](http://pursihefu.bkt.clouddn.com/wechat.jpg)
+
 # 一、 Language
 ## 1、[Java](https://blog.csdn.net/jiankunking/article/category/6238108)
 ### 1.1 JVM
@@ -146,7 +149,7 @@
 
 4、[journalctl](https://blog.csdn.net/jiankunking/article/details/79826183)
 
-# 九、 Action
+# 九、 Arch
 
 1、[对于异地多活的实践与思考](https://blog.csdn.net/jiankunking/article/details/86654181)
 
@@ -174,6 +177,10 @@
 
 2、[确保 Web 安全的 HTTPS](https://blog.csdn.net/jiankunking/article/details/79327814)
 
+# 十二、实战（问题排查）
 
-# 十二、个人微信公众号
-![个人微信公众号](https://github.com/jiankunking/knowledge-graph/blob/master/images/wechat.jpg)
+1、[排查Java的CPU性能问题](https://blog.csdn.net/jiankunking/article/details/80297136)
+
+2、[Java CPU 占用高 模拟及排查](https://blog.csdn.net/jiankunking/article/details/79749836)
+
+3、[Java 内存 占用高 模拟及排查](https://blog.csdn.net/jiankunking/article/details/79749483)
