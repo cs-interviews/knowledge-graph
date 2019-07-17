@@ -1,5 +1,5 @@
 # 衣舞晨风
-![个人微信公众号](http://pursihefu.bkt.clouddn.com/wechat.jpg)
+![个人微信公众号](https://github.com/cs-interviews/knowledge-graph/blob/master/images/wechat.jpg)
 
 # 一、 Language
 ## 1、[Java](https://blog.csdn.net/jiankunking/article/category/6238108)
