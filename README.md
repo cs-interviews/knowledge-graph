@@ -25,6 +25,8 @@
 
 [Java JDK 动态代理（AOP）使用及实现原理分析](https://blog.csdn.net/jiankunking/article/details/52143504)
 
+[Java Lambda表达式 实现原理分析](https://blog.csdn.net/jiankunking/article/details/79825928)
+
 
 ### 1.3 GC
 [Java 12 Shenandoah GC](https://blog.csdn.net/jiankunking/article/details/86179156)
